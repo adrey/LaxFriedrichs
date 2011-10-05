@@ -1,0 +1,13 @@
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\bin\Debug\ImageToString.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\bin\Debug\ImageToString.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\App.g.cs
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ImageToString_MarkupCompile.cache
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ImageToString.g.resources
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ImageToString.Properties.Resources.resources
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ImageToString.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\ImageToString\ImageToString\obj\x86\Debug\ImageToString.pdb
